@@ -1,4 +1,4 @@
-# use-geolocation
+# use-geolocation3
 
 Access and monitor a user's geolocation (after they give permission) with useGeolocation.
 
@@ -7,18 +7,18 @@ Access and monitor a user's geolocation (after they give permission) with useGeo
 To install the package, use npm:
 
 ```bash
-pnpm add use-geolocation
+pnpm add use-geolocation3
 
-yarn install use-geolocation
+yarn install use-geolocation3
 
-npm install use-geolocation
+npm install use-geolocation3
 ```
 
 ## Usage
 
 ```tsx
 import React from "react";
-import { useGeolocation } from "use-geolocation";
+import { useGeolocation } from "use-geolocation3";
 
 const GeolocationComponent: React.FC = () => {
   const {
@@ -106,4 +106,4 @@ $ npm publish
 
 ## test package
 
-https://www.npmjs.com/package/use-geolocation
+https://www.npmjs.com/package/use-geolocation3
